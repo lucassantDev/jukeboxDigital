@@ -22,7 +22,7 @@
     font-family: var(--fontePrincipal);
 }
 
-@media screen and (min-width:370px)  and (max-width: 410px){
+@media screen and (min-width:300px)  and (max-width: 420px){
     #mensagem{
         display: none;
     }
